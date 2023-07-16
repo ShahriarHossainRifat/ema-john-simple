@@ -1,0 +1,23 @@
+.product {
+    padding-bottom: 8%;
+    border: 1px solid #95A0A7;
+    border-radius: 10px;
+    width: 300px;
+    padding-top: 5px;
+    margin-bottom: 25px;
+}
+
+.product img {
+    width: 286px;
+    border-radius: 10px;
+}
+.product button {
+    background-color: #FF9900;
+    color: black;
+    width: 80%;
+    border-radius: 10px;
+    bottom: 0;
+}
+.product button:hover {
+    background-color: white;
+}
