@@ -16,4 +16,6 @@
     margin-top: 15%;
     border-radius: 5px;
     height: fit-content;
+    position: sticky;
+    top: 65px;
 }
